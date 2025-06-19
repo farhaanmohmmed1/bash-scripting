@@ -18,8 +18,7 @@ This repository contains three Bash scripts for managing and monitoring a specif
 ## Setup
 
 # 1. Clone the Repository:
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone
 
 # 2. Modify Paths:
 Update the directory paths in the scripts to match your environment. For example:
