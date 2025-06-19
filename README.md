@@ -18,7 +18,7 @@ This repository contains three Bash scripts for managing and monitoring a specif
 ## Setup
 
 # 1. Clone the Repository:
-   git clone
+   git clone https://github.com/farhaanmohmmed1/bash-scripting.git
 
 # 2. Modify Paths:
 Update the directory paths in the scripts to match your environment. For example:
